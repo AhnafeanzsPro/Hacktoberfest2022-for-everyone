@@ -1,4 +1,4 @@
-# <center> {EXCLUDED} 🥺 From Hacktoberfest2022</center>
+# <center>Hacktoberfest2022</center>
 ## {EXCLUDED} 😐 Contribute to Repositories for HacktoberFest 2022 👇
 ##### https://github.com/dikshantrajput/hacktoberfest-2022-react
 ##### https://github.com/dikshantrajput/Hacktoberfest-accepted-2022
@@ -13,11 +13,11 @@
 
 # Upload Projects or Different Types of Programs in any Language
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 # What is Hacktoberfest?
 
-Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
+Hacktoberfest is a program by Digital Ocean, DEV, and Github, where you can easily win a T-shirt just by making 4 pull requests in October to any open-source projects on GitHub.
 
 ## Steps to follow:
 
